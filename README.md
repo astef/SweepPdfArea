@@ -8,7 +8,7 @@ CLI tool to remove content under specified PDF document rectangle area
 PS> dotnet build .
 ...
 
-PS> ./bin/Debug/SweepPdfArea.exe `
+PS> ./bin/Debug/net48/SweepPdfArea.exe `
     --input ./input.pdf`
     --output ./output.pdf`
     --fill-color 00AAFF`
