@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweepPdfArea", "SweepPdfArea.csproj", "{7F096186-3072-41B1-8F15-F73AF89D5009}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SweepPdfArea", "SweepPdfArea.csproj", "{821B2D84-44E5-4BD3-81EC-7A56A782CB8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F096186-3072-41B1-8F15-F73AF89D5009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F096186-3072-41B1-8F15-F73AF89D5009}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F096186-3072-41B1-8F15-F73AF89D5009}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F096186-3072-41B1-8F15-F73AF89D5009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821B2D84-44E5-4BD3-81EC-7A56A782CB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821B2D84-44E5-4BD3-81EC-7A56A782CB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821B2D84-44E5-4BD3-81EC-7A56A782CB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821B2D84-44E5-4BD3-81EC-7A56A782CB8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C77C6522-A8B3-4329-A383-6E15A37816AC}
+		SolutionGuid = {E4E3B7D4-A4A1-4780-950B-C01139351A5F}
 	EndGlobalSection
 EndGlobal
