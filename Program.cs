@@ -68,16 +68,16 @@ namespace SweepPdfArea
             public int Page { get; set; }
             
             [Option('x', Required = true, HelpText = "X coordinate of the fill area.")]
-            public int X { get; set; }
+            public float X { get; set; }
 
             [Option('y', Required = true, HelpText = "Y coordinate of the fill area.")]
-            public int Y { get; set; }
+            public float Y { get; set; }
             
             [Option('w', Required = true, HelpText = "Width of the fill area.")]
-            public int W { get; set; }
+            public float W { get; set; }
 
             [Option('h', Required = true, HelpText = "Height of the fill area.")]
-            public int H { get; set; }
+            public float H { get; set; }
         }
 
         private class AreaCleanupStrategy : ICleanupStrategy
