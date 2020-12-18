@@ -9,13 +9,13 @@ PS> dotnet build .
 ...
 
 PS> ./bin/Debug/net48/SweepPdfArea.exe `
-    --input ./input.pdf`
-    --output ./output.pdf`
-    --fill-color 00AAFF`
-    --page 1`
-    -x 30`
-    -y 30.5`
-    -w 300`
+    --input ./input.pdf `
+    --output ./output.pdf `
+    --fill-color 00AAFF `
+    --page 1 `
+    -x 30 `
+    -y 30.5 `
+    -w 300 `
     -h 633.05
 
 ```
